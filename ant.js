@@ -26,7 +26,7 @@ function printHTMLprimarynav(){
         <a  class="hover-underline-animation"  href="javascript:void(0)" class="dropbtn" >WORK</a>
         <!-- instert page link into href-->
         <div class="dropdown-content">
-            <a class="p1" href="../ldbweb.html">MIT Portfolio </a>
+            <a class="p1" href="../index.html">MIT Portfolio </a>
             <a class="p1" href="../extra.html">extra </a>
      
          
